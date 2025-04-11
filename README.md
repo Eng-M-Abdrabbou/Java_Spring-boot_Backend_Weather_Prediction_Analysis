@@ -34,7 +34,7 @@ This repository contains the Spring Boot backend service for the Weather Applica
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-backend-repo-url>
+    git clone https://github.com/Eng-M-Abdrabbou/Java_Spring-boot_Backend_Weather_Prediction_Analysis.git
     cd weather-backend
     ```
 
